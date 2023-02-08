@@ -1,0 +1,16 @@
+.navbar{
+    border: 1px solid black;
+    width: 900px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 4px 4px;
+}
+.navbar a:hover{
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(32, 87, 32)  ;
+}
+.container
+{
+    margin: auto;
+}
